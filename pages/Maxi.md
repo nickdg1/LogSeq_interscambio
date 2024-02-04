@@ -1,0 +1,10 @@
+- TODO  [#A] Percorso formativo
+	- AAT
+		- Corso maxi
+		- Simulazioni
+	- SOREU
+		- DOGE 2
+		- Simulazioni
+		- Test
+			-
+		-

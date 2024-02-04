@@ -1,0 +1,28 @@
+- [[Phase 3 - iPS-PCP]] #Maxi
+	- Ensure
+		- Valigetta (wifi range 200mt)
+			- smartphone
+			- tablet
+			- control center PC
+		- SmartTAG (14/16 * valigetta)
+			- ECG
+			- RR
+			- *SatO2*
+			- #FC
+			- **LED**
+			- **GPS**
+			- T°
+			- ***Audio airway***
+			- Activity recognition
+		- touch interface
+		- sectorisation
+		- chat
+		- videocall
+		- tactical whiteboard
+		-
+		-
+	- I-trier
+	  id:: 65a8f819-b388-4345-92f5-5c0facd63312
+		- ![i-TRIER User Manual 7.1.0 ITALIAN.pdf](../assets/i-TRIER_User_Manual_7.1.0_ITALIAN_1705572742950_0.pdf)
+			- file:///C:/Users/nickd/Downloads/i-TRIER%20User%20Manual%207.1.0%20ITALIAN.pdf
+			-
