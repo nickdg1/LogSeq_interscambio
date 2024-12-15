@@ -1,0 +1,4 @@
+- [[Comandi linux utili]] #linux #bash
+	- `sudo vbetool dpms off`
+		- spegne schermo server
+-

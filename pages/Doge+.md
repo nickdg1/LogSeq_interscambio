@@ -1,6 +1,5 @@
 - Sviluppo nuovo doge
 - Basato su action card #Maxi
 	-
-	-
 - #Maxi
 -
