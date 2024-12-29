@@ -1,0 +1,12 @@
+- Unica edizione corso @SRA a Dicembre
+- Chi apre il doge+ e crea evento?
+- Azioni certificate da creazione pdf al termine
+- Note in EMMA necessarie x
+	- Risultato ricognizione secondolo schema #METHANE
+	- Dettaglio degli allertamenti effettuati (Ospedali - Altri ENTi - ...)
+	- [[METHANE]]
+- Logga nome loggato ed IP della postazione
+- Sulle excalation bisogna implementare quanto già fatto
+- Simone inserisce le modifiche locali
+- Versione ONLINE di Training in cui implementare la PRO 22 entro [[Dec 9th, 2024]] poi attaccarci un file locale (Aeroporto?)
+-

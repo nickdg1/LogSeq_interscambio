@@ -1,0 +1,11 @@
+- Maxiemergenza
+	- Maxiemergenza
+	- Exact location
+	- Type (tipo: inc stradale, chimico ...)
+	- Hazard (pericoli)
+	- Accessibility (vie accesso / logistica interna)
+	- Number (dei coinvolti)
+	- Enti (che ci sono e che ci servono)
+	-
+-
+-
