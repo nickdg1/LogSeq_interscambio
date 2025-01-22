@@ -1,4 +1,2 @@
-- Query di raccolta delle cose da fare
--
 -
 -

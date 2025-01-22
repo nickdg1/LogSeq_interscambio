@@ -1,0 +1,5 @@
+- Responsabile: #Valoti_Oliviero
+- Coordinatrice infermieristica: #Rottoli_Elena
+- DONE Segreteria: #Luciana
+- Responsabile Mezzi: #Bernacca_Nicola
+- [[lavoro]]

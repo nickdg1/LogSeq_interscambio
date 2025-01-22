@@ -1,6 +1,6 @@
 - Fad
 - Corso
-- DOGE +
+- #Doge+
 	- note
 	- link
 	- [doge+] issue tracker mail nell'oggetto

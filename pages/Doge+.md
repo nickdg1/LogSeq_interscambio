@@ -1,5 +1,23 @@
 - Sviluppo nuovo doge
 - Basato su action card #Maxi
+	- https://dogeplus-trainer.onrender.com/
 	-
 - #Maxi
--
+- Sintesi di #Cortesi_Sergio: #Crenna_Simone sta lavorando sull'ultimazione del DOGE+ e alla correzione dei bug ancora presenti. Per il 23 spera di avere una versione quasi definitiva. Per gli incontri residenziali del corso maxi per SOREU la versione training già on-line si potrà utilizzare, essendo nella massima parte già definitiva.
+- Nella parte di corso residenziale andrà esplicitato che l'evento in #Doge+ lo creerà l'RTT, dopo confronto con il medico di #SOREU una volta ricevuta l'informazione del receiver e quindi dopo aver inserito il dettaglio "NOTIFICA" nella scheda evento. La comparsa di NOTIFICA in EmMa varrà anche come informativa che #Doge+ è stato attivato.
+- Il "Numero evento" in DOGE+ è il numero evento della sceda di EmMa (per intenderci la 1° colonna a video), il "Luogo evento" in DOGE+ è la località così come appare nella schermata di EmMa (2° colonna), il "Dettaglio" in DOGE+ resta libero per una indicazione di facile comprensione e individuazione dell'evento.
+- **Nomenclatura**
+	- Abbiamo deciso come strutturare la parte relativa alle ditte RIR, in modo da avere un pulsante dedicato al momento della creazione dell'evento, con la forzatura di definirlo già in stato di incidente (come da PRO22, in quanto attivato il piano esterno), indipendentemente dalla scelta dell'operatore (potrà partire cercando di creare uno stato di allarme, ma se si stratta di ditta RIR verrà automaticamente creato in incidente,
+	  così da rispettare la PRO22). All'attivazione dello scenario RIR il sistema proporrà l'elenco delle ditte RIR, consentendo una scelta via via più dettagliata, partendo dalla provincia e poi proseguendo alla 
+	  scelta della ditta e dell'eventuale località se ha più stabilimenti nella provincia.
+	  Per rendere eseguibile questa funzione la richiesta, da condividere con il LAS1 (ci penserà Bodo in modo formale) è di avere una strutturazione delle cartelle negli share di SOREU similare in tutte le sale operative, ovvero:  << //SOREU (S:)/Docs/Docs_SRx/zzzPEEzzz >> dove "SRx" saranno SRA-SRL-SRM-SRP e "zzz" potranno essere caratteri a scelta se necessari (ad esempio per mantenere un'ordine nelle cartelle, tipo 10 - PEE); questo perché Simone implementerà il codice in modo che identifichi la cartella PEE da cui indicizzare le ditte RIR. All'interno della cartella << zzzPEEzzz >> vi dovrà essere poi una o più cartelle identificanti le provincie che la SOREU gestisce (BG, BG, PV, MI ...), all'interno delle quali si troverà una cartella per ogni ditta RIR con il nome della ditta stessa. Se una ditta ha più stabilimenti nella medesima provincia ci dovrà essere una cartella per ogni comune sede di stabilimento, all'interno della cartella della ditta. Come ultimo livello ci saranno tutti i file inerenti i piani della ditta, ovvero: un file "00_SINTESI - NOME DITTA" (la scheda sintetica progettata ormai tempo fa) con la regola fondamentale che la parte "00_SINTESI - " sia così scritto per tutte le ditte. All'interno della stessa cartella vi saranno poi tutti i file del PEE completo, non in altre sottocartelle e possibilmente nel solo formato .pdf (non in formato .zip).
+		- Per chiarificare, una struttura completa sarà:
+		  //SOREU (S:)/Docs/Docs_SRP/10 - PEE/PV/A2A/Corteolona e Genzone/00_SINTESI - A2A Corteolona e Genzone.pdf
+		  //SOREU (S:)/Docs/Docs_SRP/10 - PEE/PV/A2A/Corteolona e Genzone/PEEcompleto - A2A Corteolona e Genzone.pdf
+		  //SOREU (S:)/Docs/Docs_SRP/10 - PEE/PV/A2A/Corteolona e Genzone/Allegato1 PEE - A2A Corteolona e Genzone.pdf
+		  //SOREU (S:)/Docs/Docs_SRP/10 - PEE/PV/A2A/Giussago/00_SINTESI - A2A Giussago.pdf
+		  //SOREU (S:)/Docs/Docs_SRP/10 - PEE/PV/ENI/00_SINTESI - ENI Sannazzaro.pdf
+- Ugualmente, si è deciso di sfruttare la medesima organizzazione per i piani di emergenza per luoghi significativi (stadi, teatri, ...) definiti "Altri piani", inserendoli in una cartella PEI con struttura di sottocartelle da definire (si pensava si usare una struttura come già presente in SRM ma va meglio definita a mio parere, per varie casistiche possibili e nonattualmente presenti).
+  background-color:: pink
+- #DeLuca_Giovanni ha chiesto la possibilità di avere la maxi multi-sito (ad oggi penso realtà solo di SRM), ma si è ragionato che il modo più facile è di cerarla come attivazione particolare alla stregua degli eventi in aeroporto o gli eventi BCR (foglio dedicato nell'excel di integrazione 
+  locale), alla fine la grossa differenza a livello di DOGE+ è l'impegno di 2 infermieri dedicati invece che uno solamente.
