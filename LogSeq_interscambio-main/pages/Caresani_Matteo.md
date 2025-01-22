@@ -1,0 +1,4 @@
+- Responsabile Tecnico Organizzativo delle #SOREU
+- Gruppo [[AREU_HQ]]
+	- #Rivalutazioni
+	-

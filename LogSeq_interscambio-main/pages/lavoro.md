@@ -1,0 +1,14 @@
+- Attività di cui mi occupo da passare
+	- Turni
+	- Maxi Soreu
+		- Corsi
+			- Lauretta
+		- Gestione documentazione
+			- Villa
+	- Pazienti critici
+		- Ragusa
+	- Doge+
+	- Rivalutazione AREU
+		-
+	-
+	-

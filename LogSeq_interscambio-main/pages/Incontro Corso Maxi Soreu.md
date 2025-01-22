@@ -1,0 +1,7 @@
+- Fad
+- Corso
+- #Doge+
+	- note
+	- link
+	- [doge+] issue tracker mail nell'oggetto
+	-

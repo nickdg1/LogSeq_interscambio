@@ -1,0 +1,9 @@
+- Riferimenti
+	- #lavoro #[[Rete di Patologia]]
+- Cosa
+- Quando
+- Compilazione
+- Condivisione delle informazioni
+	- Video
+	- Immagini
+	-

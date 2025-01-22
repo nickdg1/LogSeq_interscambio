@@ -1,0 +1,14 @@
+- [#A] Vacanza a Santorini 2024
+- [[Santorini]] [[Aug 4th, 2024]]
+  Arrivo 22:05 FR3210 2h 35min
+- Thera Ferryscanner
+- [[Aug 5th, 2024 06:45]] Traghetto -> Nasso [[Aug 5th, 2024 08:45]]
+- Nasso
+- https://www.booking.com/Share-Lectyn
+-
+- [[Aug 12th, 2024 12:50]] Traghetto -> Santorini[[Aug 12th, 2024 14:50]]
+- Santorini
+- https://www.booking.com/Share-IhdAV4
+-
+- [[Aug 16th, 2024 15:15]] Santorini Nazionale  -> Orio Al Serio [[Aug 16th, 2024 17:00]]
+-
