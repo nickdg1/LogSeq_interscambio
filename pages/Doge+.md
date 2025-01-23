@@ -19,5 +19,5 @@
 		  //SOREU (S:)/Docs/Docs_SRP/10 - PEE/PV/ENI/00_SINTESI - ENI Sannazzaro.pdf
 - Ugualmente, si è deciso di sfruttare la medesima organizzazione per i piani di emergenza per luoghi significativi (stadi, teatri, ...) definiti "Altri piani", inserendoli in una cartella PEI con struttura di sottocartelle da definire (si pensava si usare una struttura come già presente in SRM ma va meglio definita a mio parere, per varie casistiche possibili e nonattualmente presenti).
   background-color:: pink
-- #DeLuca_Giovanni ha chiesto la possibilità di avere la maxi multi-sito (ad oggi penso realtà solo di SRM), ma si è ragionato che il modo più facile è di cerarla come attivazione particolare alla stregua degli eventi in aeroporto o gli eventi BCR (foglio dedicato nell'excel di integrazione 
+- #[[DeLuca Giovanni]] ha chiesto la possibilità di avere la maxi multi-sito (ad oggi penso realtà solo di SRM), ma si è ragionato che il modo più facile è di cerarla come attivazione particolare alla stregua degli eventi in aeroporto o gli eventi BCR (foglio dedicato nell'excel di integrazione 
   locale), alla fine la grossa differenza a livello di DOGE+ è l'impegno di 2 infermieri dedicati invece che uno solamente.
