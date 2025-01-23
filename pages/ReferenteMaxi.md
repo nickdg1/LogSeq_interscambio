@@ -4,7 +4,7 @@
 	- [[Villa Nicola]] <n.villa@areu.lombardia.it> OT
 - SRL
 	- [[Clerici Michele]] <m.clerici@areu.lombardia.it> Inf
-	- [[Crenna_Simone]] <s.crenna@areu.lombardia.it> OT && Cofounder
+	- [[Crenna_Simone]] <s.crenna@areu.lombardia.it> OT && Founder
 	- [[Pasquale La Grotteria]] <p.lagrotteria@areu.lombardia.it> OT
 	- [[Andrea Gobbi]] <a.gobbi@areu.lombardia.it> Medico
 - SRM
@@ -14,5 +14,4 @@
 - SRP
 	- [[Cortesi Sergio]] <s.cortesi@areu.lombardia.it> Medico
 	- [[Antonella Montecalvo]] <a.montecalvo@areu.lombardia.it> Inf
-	- Ot
-	-
+	- [[Gianluca Romeo]] <g.romeo@areu.lombardia.it> Ot
