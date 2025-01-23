@@ -1,6 +1,6 @@
 ## Ricezione
-	- ### FILTRO MAXI
-	- ### ENTE ALLERTABILE MAXI
+	- #### FILTRO MAXI
+	- #### ENTE ALLERTABILE MAXI
 	- #### Stato di ALLARME
 	  
 	  evento che non presenti immediatamente 
