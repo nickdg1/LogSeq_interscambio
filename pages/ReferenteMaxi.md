@@ -1,15 +1,16 @@
 - SRA
 	- Io
-	- [[Baldelli Daniela]] Medico
-	- [[Villa Nicola]] OT
+	- [[Baldelli Daniela]] <d.baldelli@areu.lombardia.it> Medico
+	- [[Villa Nicola]] <n.villa@areu.lombardia.it> OT
 - SRL
-	- [[Clerici Michele]] Inf
-	- [[Crenna_Simone]] OT
+	- [[Clerici Michele]] <m.clerici@areu.lombardia.it> Inf
+	- [[Crenna_Simone]] <s.crenna@areu.lombardia.it> OT && Cofounder
+	- [[Pasquale La Grotteria]] <p.lagrotteria@areu.lombardia.it> OT
 	-
 - SRM
-	- [[Archetti Davide]] OT
+	- [[Arghetti Davide]] OT
 	- [[DeLuca Giovanni]] Inf
-	- Alba Medico
+	- [[Alba Ripoll]] <a.ripoll@areu.lombardia.it> Medico
 - SRP
 	- [[Cortesi Sergio]] Medico
 	- Inf
