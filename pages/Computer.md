@@ -1,0 +1,4 @@
+- Trick
+	- Spegnere vbetool dpms off
+	- Accendere sudo vbetool dpms on
+-
