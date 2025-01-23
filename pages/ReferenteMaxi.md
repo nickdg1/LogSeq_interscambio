@@ -6,13 +6,13 @@
 	- [[Clerici Michele]] <m.clerici@areu.lombardia.it> Inf
 	- [[Crenna_Simone]] <s.crenna@areu.lombardia.it> OT && Cofounder
 	- [[Pasquale La Grotteria]] <p.lagrotteria@areu.lombardia.it> OT
-	-
+	- [[Andrea Gobbi]] <a.gobbi@areu.lombardia.it> Medico
 - SRM
 	- [[Arghetti Davide]] OT
-	- [[DeLuca Giovanni]] Inf
+	- [[DeLuca Giovanni]] <g.deluca@areu.lombardia.it> Inf
 	- [[Alba Ripoll]] <a.ripoll@areu.lombardia.it> Medico
 - SRP
-	- [[Cortesi Sergio]] Medico
-	- Inf
+	- [[Cortesi Sergio]] <s.cortesi@areu.lombardia.it> Medico
+	- [[Antonella Montecalvo]] <a.montecalvo@areu.lombardia.it> Inf
 	- Ot
 	-
